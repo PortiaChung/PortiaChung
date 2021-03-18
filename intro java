@@ -1,7 +1,6 @@
-package hh;
+
 import java.util.Scanner;
-public class nn {
-	private static int j;
+public class AverageTheMajorDiagonalInAMatrix {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter a 4-by-4 matrix row by row:  ");
